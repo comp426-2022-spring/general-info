@@ -8,10 +8,10 @@ Other general information will be added to this repository as needed.
 
 ## Office hours
 
-| Name | Role | Available hours |
+| Name | Role | Available hours | Location |
 | --- | --- | --- |
-| John | Instructor | Tuesday 11:00-12:00 |
-|             |            | Thursday 11:00-12:00 |
+| John | Instructor | Tuesday 11:00-12:00 | https://mydigitalhand.org/enrollment/30895 |
+|             |            | Thursday 11:00-12:00 |   |
 
 ## Issues
 
