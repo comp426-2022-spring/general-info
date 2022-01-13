@@ -6,6 +6,10 @@ This README will be expanded as needed to include support information based on i
 
 Other general information will be added to this repository as needed.
 
+## Add yourself to this organization
+
+https://classroom.github.com/a/K67Jn-Px
+
 ## Office hours
 
 | Name | Role | Available hours | Location |
