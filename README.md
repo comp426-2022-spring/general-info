@@ -6,7 +6,14 @@ This README will be expanded as needed to include support information based on i
 
 Other general information will be added to this repository as needed.
 
-# Issues
+## Office hours
+
+| Name | Role | Available hours |
+| --- | --- | --- |
+| John | Instructor | Tuesday 11:00-12:00 |
+|             |            | Thursday 11:00-12:00 |
+
+## Issues
 
 Please create issues for general inquiries about the structure of this course.
 
