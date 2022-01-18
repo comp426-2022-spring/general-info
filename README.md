@@ -1,4 +1,4 @@
-# General course info
+# General course info COMP 426
 
 We will use this repository to raise issues and discuss general information about COMP 426, as well as procedures, policies, tools, and other general concerns.
 
