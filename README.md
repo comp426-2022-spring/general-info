@@ -21,11 +21,9 @@ https://github.com/comp426-2022-spring/secrets
 
 ## Office hours
 
-| Name | Role | Available hours | Location |
-| --- | --- | --- | --- |
-| Ellis | LA | Monday 4:00-6:00 | https://mydigitalhand.org/enrollment/30895 |
-| John | Instructor | Tuesday 11:00-12:00 | https://mydigitalhand.org/enrollment/30895 |
-| Ellis | LA | Wednesday 4:00-6:00 | https://mydigitalhand.org/enrollment/30895 |
-| John | Instructor | Thursday 11:00-12:00 | https://mydigitalhand.org/enrollment/30895 |
-
-
+| Name | Role | Day | Time | Location |
+| --- | --- | --- | --- | --- |
+| Ellis | LA | Monday | 16:00-18:00 | https://mydigitalhand.org/enrollment/30895 |
+| John | Instructor | Tuesday | 11:00-12:00 | https://mydigitalhand.org/enrollment/30895 |
+| Ellis | LA | Wednesday | 16:00-18:00 | https://mydigitalhand.org/enrollment/30895 |
+| John | Instructor | Thursday | 11:00-12:00 | https://mydigitalhand.org/enrollment/30895 |
