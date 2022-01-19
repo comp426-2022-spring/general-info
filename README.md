@@ -25,5 +25,7 @@ https://github.com/comp426-2022-spring/secrets
 | --- | --- | --- | --- | --- |
 | Ellis | LA | Monday | 16:00-18:00 | https://mydigitalhand.org/enrollment/30895 |
 | John | Instructor | Tuesday | 11:00-12:00 | https://mydigitalhand.org/enrollment/30895 |
+| Sam | LA | Wednesday | 14:00-16:00 | https://mydigitalhand.org/enrollment/30895 |
 | Ellis | LA | Wednesday | 16:00-18:00 | https://mydigitalhand.org/enrollment/30895 |
 | John | Instructor | Thursday | 11:00-12:00 | https://mydigitalhand.org/enrollment/30895 |
+| Sam | LA | Friday | 14:00-16:00 | https://mydigitalhand.org/enrollment/30895 |
