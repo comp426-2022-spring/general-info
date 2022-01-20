@@ -21,6 +21,8 @@ https://github.com/comp426-2022-spring/secrets
 
 ## Office hours
 
+[My Digital Hand](https://mydigitalhand.org/enrollment/30895) enrollment code stored in [SECRETS](https://github.com/comp426-2022-spring/secrets).
+
 | Name | Role | Day | Time | Location |
 | --- | --- | --- | --- | --- |
 | Ellis | LA | Monday | 16:00-18:00 | https://mydigitalhand.org/enrollment/30895 |
