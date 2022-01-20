@@ -1,4 +1,4 @@
-# General course info COMP 426
+# General course info for COMP 426
 
 We will use this repository to raise issues and discuss general information about COMP 426, as well as procedures, policies, tools, and other general concerns.
 
@@ -25,11 +25,11 @@ https://github.com/comp426-2022-spring/secrets
 | --- | --- | --- | --- | --- |
 | Ellis | LA | Monday | 16:00-18:00 | https://mydigitalhand.org/enrollment/30895 |
 | Arpita| LA | Tuesday | 9:30-11:30| https://mydigitalhand.org/enrollment/30895 |
-| John | Instructor | Tuesday | 11:00-12:00 | https://mydigitalhand.org/enrollment/30895 |
+| John | Instructor | Tuesday | 12:00-13:00 | https://mydigitalhand.org/enrollment/30895 |
 | Sam | LA | Wednesday | 13:00-15:00 | https://mydigitalhand.org/enrollment/30895 |
 | Ose | LA | Wednesday | 15:30-16:30 | https://mydigitalhand.org/enrollment/30895 |
 | Ellis | LA | Wednesday | 16:00-18:00 | https://mydigitalhand.org/enrollment/30895 |
 | Arpita | LA | Thursday | 9:30-11:30 | https://mydigitalhand.org/enrollment/30895 |
-| John | Instructor | Thursday | 11:00-12:00 | https://mydigitalhand.org/enrollment/30895 |
+| John | Instructor | Thursday | 12:00-13:00 | https://mydigitalhand.org/enrollment/30895 |
 | Sam | LA | Friday | 13:00-15:00 | https://mydigitalhand.org/enrollment/30895 |
 | Ose | LA | Friday | 15:30-16:30 | https://mydigitalhand.org/enrollment/30895 |
