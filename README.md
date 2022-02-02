@@ -37,3 +37,4 @@ https://github.com/comp426-2022-spring/secrets
 | John | Instructor | Thursday | 12:00-13:00 | https://mydigitalhand.org/enrollment/30895 |
 | Sam | LA | Friday | 13:00-15:00 | https://mydigitalhand.org/enrollment/30895 |
 | Ose | LA | Friday | 15:30-16:30 | https://mydigitalhand.org/enrollment/30895 |
+| Mohaiminul | TA | Thursday | 11:00-13:00 | https://mydigitalhand.org/enrollment/30895 |
