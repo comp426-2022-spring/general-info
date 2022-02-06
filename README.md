@@ -29,6 +29,7 @@ https://github.com/comp426-2022-spring/secrets
 | Ellis | LA | Monday | 16:00-18:00 | https://mydigitalhand.org/enrollment/30895 |
 | Arpita| LA | Tuesday | 9:30-11:30| https://mydigitalhand.org/enrollment/30895 |
 | John | Instructor | Tuesday | 12:00-13:00 | https://mydigitalhand.org/enrollment/30895 |
+| Dylan | LA | Tuesday | 13:30-15:30 | https://mydigitalhand.org/enrollment/30895 |
 | Cameron | TA | Wednesday | 13:00-15:00 | https://mydigitalhand.org/enrollment/30895 |
 | Sam | LA | Wednesday | 13:00-15:00 | https://mydigitalhand.org/enrollment/30895 |
 | Ose | LA | Wednesday | 15:30-16:30 | https://mydigitalhand.org/enrollment/30895 |
@@ -36,7 +37,6 @@ https://github.com/comp426-2022-spring/secrets
 | Arpita | LA | Thursday | 9:30-11:30 | https://mydigitalhand.org/enrollment/30895 |
 | Mohaiminul | TA | Thursday | 11:00-13:00 | https://mydigitalhand.org/enrollment/30895 |
 | John | Instructor | Thursday | 12:00-13:00 | https://mydigitalhand.org/enrollment/30895 |
+| Dylan | LA | Thursday | 13:30-15:30 | https://mydigitalhand.org/enrollment/30895 |
 | Sam | LA | Friday | 13:00-15:00 | https://mydigitalhand.org/enrollment/30895 |
 | Ose | LA | Friday | 15:30-16:30 | https://mydigitalhand.org/enrollment/30895 |
-| Dylan | LA | Tuesday | 13:30-15:30 | https://mydigitalhand.org/enrollment/30895 |
-| Dylan | LA | Thursday | 13:30-15:30 | https://mydigitalhand.org/enrollment/30895 |
