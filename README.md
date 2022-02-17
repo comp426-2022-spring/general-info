@@ -40,3 +40,17 @@ https://github.com/comp426-2022-spring/secrets
 | John | Instructor | Thursday | 16:45-17:45 | https://mydigitalhand.org/enrollment/30895 |
 | Sam | LA | Friday | 13:00-15:00 | https://mydigitalhand.org/enrollment/30895 |
 | Ose | LA | Friday | 15:30-16:30 | https://mydigitalhand.org/enrollment/30895 |
+
+## Assignment repo links
+
+Since the organization only gives us 6 pinned repos, all of the assignment links to the assignment template repos are available here:
+
+- a00: https://github.com/comp426-2022-spring/a00
+
+- a01: https://github.com/comp426-2022-spring/a01
+
+- a02: https://github.com/comp426-2022-spring/a02
+
+- a03: https://github.com/comp426-2022-spring/a03
+
+- a99: https://github.com/comp426-2022-spring/a99
