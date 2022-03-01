@@ -55,4 +55,6 @@ Since the organization only gives us 6 pinned repos, all of the assignment links
 
 - a03 API: https://github.com/comp426-2022-spring/a03
 
+- Midterm: https://comp426.johndmart.in/a/midterm/
+
 - a99 Final project: https://github.com/comp426-2022-spring/a99
