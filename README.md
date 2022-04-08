@@ -17,13 +17,14 @@ https://github.com/comp426-2022-spring/secrets
 1. Please create issues for general inquiries about the structure of this course.
 2. Assignment-specific issues need to be created in the appropriate assignment starter code repository.
 3. Any assignment-specific issue created here will be transferred by one of the instructional staff to the appropriate repo.
-4. IMPORTANT: Please create assignment issues BEFORE you come to office hours. This will help up to address helping you with the assignments much more efficiently and effectively.
 
 ## Office hours
 
 We are using [My Digital Hand](https://mydigitalhand.org/) to manage office hours remotely.
 To get set up, follow the instructions here: https://github.com/comp426-2022-spring/general-info/blob/main/mdh-setup.md
 There is no enrollment code.
+
+IMPORTANT: Please create assignment issues BEFORE you come to office hours. This will help up to address helping you with the assignments much more efficiently and effectively.
 
 | Name | Role | Day | Time | Location |
 | --- | --- | --- | --- | --- |
