@@ -6,25 +6,29 @@ This README will be expanded as needed to include support information based on i
 
 Other general information will be added to this repository as needed.
 
-## SECRETS
-
-All the links and passwords you need for this course that are not available to the general public will be kept here: 
-
-https://github.com/comp426-2022-spring/secrets
-
 ## Issues
 
 1. Please create issues for general inquiries about the structure of this course.
-2. Assignment-specific issues need to be created in the appropriate assignment starter code repository.
+2. Assignment-specific issues need to be created in the appropriate assignment starter code template repository.
 3. Any assignment-specific issue created here will be transferred by one of the instructional staff to the appropriate repo.
 
-## Office hours
+## OFFICE HOURS FOR WEEK OF APRIL 25
 
-We are using [My Digital Hand](https://mydigitalhand.org/) to manage office hours remotely.
-To get set up, follow the instructions here: https://github.com/comp426-2022-spring/general-info/blob/main/mdh-setup.md
-There is no enrollment code.
+***Please note that this schedule is different from the regular hours schedule***
 
-IMPORTANT: Please create assignment issues BEFORE you come to office hours. This will help up to address helping you with the assignments much more efficiently and effectively.
+***IMPORTANT:** Please create assignment issues BEFORE you come to office hours and place the link to your posted issue in MDH when you add yourself to the queue so that we can reference it immediately. This will help up to address helping you with the assignments much more efficiently and effectively.*
+
+During the week of April 25, due to high demand, if you have not created an issue or posted a link to it when you add yourself to the queue in MDH, you will be asked to do so and returned to the queue while you do. Thank you for complying with this request.
+
+| Name | Role | Day | Time | Location |
+| --- | --- | --- | --- | --- |
+| John | Instructor | Tuesday 26 April | 16:30-18:00 | https://mydigitalhand.org |
+| John | Instructor | Wednesday 27 April | 10:00-12:00 | https://mydigitalhand.org |
+| John | Instructor | Thursday 28 April | 15:00-18:00 | https://mydigitalhand.org |
+| John | Instructor | Friday 29 April | 10:00-12:00 | https://mydigitalhand.org |
+| John | Instructor | Saturday 30 April | 14:00-17:00 | https://mydigitalhand.org |
+
+<!--
 
 | Name | Role | Day | Time | Location |
 | --- | --- | --- | --- | --- |
@@ -44,6 +48,8 @@ IMPORTANT: Please create assignment issues BEFORE you come to office hours. This
 | Sam | LA | Friday | 13:00-15:00 | https://mydigitalhand.org |
 | Ose | LA | Friday | 15:30-16:30 | https://mydigitalhand.org |
 
+-->
+
 ## Assignment repo links
 
 Since the organization only gives us 6 pinned repos, all of the assignment links to the assignment template repos are available here:
@@ -56,6 +62,16 @@ Since the organization only gives us 6 pinned repos, all of the assignment links
 
 - a03 API: https://github.com/comp426-2022-spring/a03
 
+- a04 DB & logs: https://github.com/comp426-2022-spring/a04
+
+- a05 Front end: - https://github.com/comp426-2022-spring/a05
+
+- e01: HTML+CSS - https://github.com/comp426-2022-spring/e01
+
+- e02: React - https://github.com/comp426-2022-spring/e02
+
 - Midterm: https://comp426.johndmart.in/a/midterm/
+
+- Final: https://comp426.johndmart.in/a/final/
 
 - a99 Final project: https://github.com/comp426-2022-spring/a99
