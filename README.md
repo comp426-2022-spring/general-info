@@ -29,7 +29,7 @@ During the week of April 25, due to high demand, if you have not created an issu
 | Arpita | LA | Thursday | 10:00-12:00 | https://mydigitalhand.org |
 | Ose | LA | Thursday 28 April | 14:00-15:00 | https://mydigitalhand.org |
 | John | Instructor | Friday 29 April | 10:00-12:00 | https://mydigitalhand.org |
-| John | Instructor | Friday 29 April | 15:00-16:00 | https://mydigitalhand.org |
+| John | Instructor | Friday 29 April | 15:00-18:00 | https://mydigitalhand.org |
 | Ose | LA | Friday 29 April | 16:00-17:00 | https://mydigitalhand.org |
 | John | Instructor | Saturday 30 April | 14:00-17:00 | https://mydigitalhand.org |
 
